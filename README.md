@@ -6,6 +6,9 @@ API integration.
 Technical Stack:
 
 Frontend: React
+
 Backend: Node.js, Express
+
 Database: MongoDB Atlas
+
 AI Integration: OpenAI GPT API
